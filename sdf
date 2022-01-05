@@ -1,0 +1,6 @@
+a = int(input('숫자 1 = '))
+b = int(input('숫자 1 = '))
+c = int(a)
+d = float(b)
+print(c + d)
+print(a + b)
